@@ -1,3 +1,3 @@
 # just-some-arithmetic
-addition substruction multiplication and division in javascript
-i am someone
+addition substraction multiplication and division in javascript
+
